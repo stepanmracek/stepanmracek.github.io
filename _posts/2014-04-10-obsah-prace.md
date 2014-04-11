@@ -7,7 +7,7 @@ date:   2014-04-10 21:25:00
 # Rozsah a forma práce
 Rozsah práce se řídí předpisy [FIT][ssz]. Pro diplomanty jsou konkrétní požadavky na rozsah a formu uvedeny [zde][ssz-dp], bakaláři najdou informace [zde][ssz-bp].
 
-[ssz]: http://www.fit.vutbr.cz/info/szz/pokyny_dp.html
+[ssz]: http://www.fit.vutbr.cz/info/szz/
 [ssz-dp]: http://www.fit.vutbr.cz/info/szz/pokyny_dp.html
 [ssz-bp]: http://www.fit.vutbr.cz/info/szz/pokyny_bp.html
 
